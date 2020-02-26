@@ -1,0 +1,8 @@
+# Ignore .tfvars file where credentials are stored
+**.tfvars
+
+# Ignore the .terraform folder
+**/.terraform/
+
+# Ignore tfstate files
+**/*.tfstate
