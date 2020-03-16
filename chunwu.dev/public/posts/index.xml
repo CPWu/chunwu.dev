@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chun Wu</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Chun Wu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Mar 2020 16:10:31 -0400</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who the heck are YOU?</title>
+      <link>/who-the-heck-are-you/</link>
+      <pubDate>Mon, 16 Mar 2020 16:10:31 -0400</pubDate>
+      
+      <guid>/who-the-heck-are-you/</guid>
+      <description>It will please some of you to know that I almost titled this post &amp;ldquo;I am Chun.&amp;rdquo; But friends in my life consistently knock me down a few pegs as a gentle reminder to be humble - which I am and prefer to be. You know who you are.
+As an individual I seek to better myself and further my knowledge in all areas of life but my passion remains constant.</description>
+    </item>
+    
+  </channel>
+</rss>
