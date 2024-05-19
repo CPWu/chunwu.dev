@@ -1,4 +1,4 @@
-baseURL = 'https://cpwu.github.io/chunwu.dev/'
+baseURL = 'https://chunwu.dev/'
 languageCode = 'en-us'
 title = 'Chun Wu'
 theme = 'ananke'
