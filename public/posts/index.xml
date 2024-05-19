@@ -11,14 +11,21 @@
     </image>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 01:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Domain on Github Pages with Cloudflare</title>
+      <link>http://localhost:1313/posts/blog-setup/</link>
+      <pubDate>Sun, 19 May 2024 01:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/blog-setup/</guid>
+      <description>Keeping it simple</description>
+    </item>
     <item>
       <title>I am back... again!</title>
       <link>http://localhost:1313/posts/im-back/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Sat, 18 May 2024 11:30:03 +0000</pubDate>
       <guid>http://localhost:1313/posts/im-back/</guid>
-      <description>Desc Text.</description>
+      <description>Attempt #...</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "I am back... again!"
-date: 2020-09-15T11:30:03+00:00
+date: 2024-05-18T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Attempt #..."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
