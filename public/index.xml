@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chun Wu</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/chunwu.dev/</link>
     <description>Recent content on Chun Wu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 May 2024 12:35:16 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/chunwu.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I am back... again!</title>
-      <link>http://localhost:1313/posts/my-first.post/</link>
+      <link>http://localhost:1313/chunwu.dev/posts/my-first.post/</link>
       <pubDate>Sat, 18 May 2024 12:35:16 -0700</pubDate>
-      <guid>http://localhost:1313/posts/my-first.post/</guid>
+      <guid>http://localhost:1313/chunwu.dev/posts/my-first.post/</guid>
       <description>Where have I been? In the previous iteration of this website (there have been many iterations before it). I was running chunwu.dev using Hugo. The site was hosted in Azure Storage and leveraged Azure&amp;rsquo;s Content Delivery Network.&#xA;My hope was that by having a web presence, it would force me to blog about all the various things I am working on - as they say, you don&amp;rsquo;t understand a topic until you can teach it.</description>
     </item>
   </channel>
