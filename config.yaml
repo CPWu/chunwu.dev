@@ -141,6 +141,4 @@ markup:
     # lineNos: true
     # style: monokai
 
-services:
-  disqus:
-    shortname: chunwu
+disqusShortname: "chunwu"
