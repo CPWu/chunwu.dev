@@ -38,8 +38,8 @@
     <loc>http://localhost:1313/posts/im-back/</loc>
     <lastmod>2024-05-18T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seach/</loc>
-  </url><url>
     <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
