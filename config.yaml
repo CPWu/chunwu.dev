@@ -19,7 +19,7 @@ outputs:
     - HTML
     - RSS
     - JSON
-    
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Chun Wu
@@ -122,9 +122,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifer: archive
-      name: archive
-      url: /archive/
+    - identifer: archives
+      name: archives
+      url: /archives/
       weight: 10
     - identifier: categories
       name: categories
