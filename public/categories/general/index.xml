@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Chun Wu</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Chun Wu</description>
+    <title>General on Chun Wu</title>
+    <link>http://localhost:1313/categories/general/</link>
+    <description>Recent content in General on Chun Wu</description>
     <image>
       <title>Chun Wu</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 May 2024 22:20:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Custom Domain on Github Pages with Cloudflare</title>
-      <link>http://localhost:1313/posts/blog-setup/</link>
-      <pubDate>Sat, 25 May 2024 22:20:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/blog-setup/</guid>
-      <description>Keeping it simple</description>
-    </item>
+    <lastBuildDate>Sat, 18 May 2024 11:30:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I am back... again!</title>
       <link>http://localhost:1313/posts/im-back/</link>

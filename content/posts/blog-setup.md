@@ -4,9 +4,10 @@ date: 2024-05-25T22:20:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["cloudflare","github","dns"]
+categories: ["website"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
@@ -17,7 +18,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -25,15 +26,13 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/cloudflare.png" # image path/url
+    image: "/images/blog-setup/cloudflare.png" # image path/url
     alt: "Cloudflare" # alt text
     caption: "Custom Domain for Github Pages" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    hidden: false # only hide on current single page
+    hiddenInList: false
+    hiddenInSingle: false
 ---
 
 ## Let's get started!
@@ -168,7 +167,7 @@ git commit -m "Added a Github Action"
 git push 
 ```
 
-If you navigate to your repository on Github and look at the `Actions` tab you should notice there is a workflow running called `Deploy Hugo site to Pages`. ![Github Action](/images/github-action.png)
+If you navigate to your repository on Github and look at the `Actions` tab you should notice there is a workflow running called `Deploy Hugo site to Pages`. ![Github Action](/images/blog-setup/github-action.png)
 
 Once this Github Action runs it's course you should be able to navigate to the domain Github provides you by default, in my case it is: `https://cpwu.github.io/chunwu.dev/`. When we setup Github Pages, you may have noticed a textbox under `Custom domain` that you can specify, it really is that simple. 
 
@@ -185,13 +184,13 @@ To purchase a domain, create yourself an account on Cloudflare if you haven't do
 3. In my case `chunwu.dev` was available for $10.18 USD.
 4. Add an `A` record for your newly purchased domain by specifying your domain name under `Name` and `185.199.108.153` for content. You can find the other Github IP addresses for Github pages [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 
-![Cloudflare - DNS Records](/images/cloudflare-dns-records.png)
+![Cloudflare - DNS Records](/images/blog-setup/cloudflare-dns-records.png)
 
 ### Website up!
 
 Now that you have your domain name setup, and your website published to Github pages you just need to navigate back to the Settings of your site's Github repository. You should now be able to specify the domain name you purchased with Cloudflare into the textbox and after a few minutes your site will be live on the internet with a custom domain. 
 
 
-![Github Pages - Custom Domain](/images/github-custom-domain.png)
+![Github Pages - Custom Domain](/images/blog-setup/github-custom-domain.png)
 
 *As previously mentioned, make sure you select the Enforce HTTPS option since this is a requirement for `.dev` domains and generally a good practice.*
