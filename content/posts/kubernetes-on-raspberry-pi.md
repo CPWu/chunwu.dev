@@ -31,10 +31,7 @@ cover:
     hidden: false # only hide on current single page
     hiddenInList: false
     hiddenInSingle: false
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    linkFullImages: true
 ---
 
 ## Introduction 

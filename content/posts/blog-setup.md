@@ -33,6 +33,7 @@ cover:
     hidden: false # only hide on current single page
     hiddenInList: false
     hiddenInSingle: false
+    linkFullImages: true
 ---
 
 ## Let's get started!
