@@ -14,11 +14,11 @@ minify:
   disableXML: true
   minifyOutput: true
 
-disqus:
-  enable: true
-  shortname: "chunwu"
-  count: true
-#disqusShortname: "chunwu"
+# disqus:
+#   enable: true
+#   shortname: "chunwu"
+#   count: true
+# #disqusShortname: "chunwu"
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.

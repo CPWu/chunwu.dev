@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Chun Wu</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Chun Wu</description>
+    <title>K3s on Chun Wu</title>
+    <link>http://localhost:1313/categories/k3s/</link>
+    <description>Recent content in K3s on Chun Wu</description>
     <image>
       <title>Chun Wu</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,27 +12,13 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Jun 2024 09:13:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/k3s/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubernetes on Raspberry Pi - Part 1</title>
       <link>http://localhost:1313/posts/kubernetes-on-raspberry-pi/</link>
       <pubDate>Sat, 01 Jun 2024 09:13:03 +0000</pubDate>
       <guid>http://localhost:1313/posts/kubernetes-on-raspberry-pi/</guid>
       <description>Multi-part series on working with Kubernetes</description>
-    </item>
-    <item>
-      <title>Custom Domain on Github Pages with Cloudflare</title>
-      <link>http://localhost:1313/posts/blog-setup/</link>
-      <pubDate>Sat, 25 May 2024 22:20:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/blog-setup/</guid>
-      <description>Keeping it simple</description>
-    </item>
-    <item>
-      <title>I am back... again!</title>
-      <link>http://localhost:1313/posts/im-back/</link>
-      <pubDate>Sat, 18 May 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/im-back/</guid>
-      <description>Attempt #...</description>
     </item>
   </channel>
 </rss>
