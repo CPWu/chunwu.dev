@@ -9,7 +9,7 @@ showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Multi-part series on working with Kubernetes"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
