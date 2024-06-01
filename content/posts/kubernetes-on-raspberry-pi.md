@@ -7,7 +7,7 @@ author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Multi-part series on working with Kubernetes"
