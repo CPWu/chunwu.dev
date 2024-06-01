@@ -131,6 +131,8 @@ Repeat the above steps for the other Raspberry Pi's. Once I have all the Raspber
 
 ![Cluster-Case](/images/k8s-raspberry-pi/cluster-case.jpg)
 
+_You may want to label your nodes with tape or a label maker, the older you get the easier it is to forget what is what._
+
 ## What's Next?
 
 In the next step we are going to use [Ansible]() to automate the setup of Kubernetes cluster with K3s and go over in detail the settings I will be using to configure the cluster. 
