@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>K3s on Chun Wu</title>
-    <link>http://localhost:1313/tags/k3s/</link>
-    <description>Recent content in K3s on Chun Wu</description>
+    <title>Automation on Chun Wu</title>
+    <link>http://localhost:1313/categories/automation/</link>
+    <description>Recent content in Automation on Chun Wu</description>
     <image>
       <title>Chun Wu</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,19 +12,12 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <lastBuildDate>Sat, 08 Jun 2024 09:30:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/k3s/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubernetes on Raspberry Pi - Part 2</title>
       <link>http://localhost:1313/posts/kubernetes-on-raspberry-pi-2/</link>
       <pubDate>Sat, 08 Jun 2024 09:30:03 +0000</pubDate>
       <guid>http://localhost:1313/posts/kubernetes-on-raspberry-pi-2/</guid>
-      <description>Multi-part series on working with Kubernetes</description>
-    </item>
-    <item>
-      <title>Kubernetes on Raspberry Pi - Part 1</title>
-      <link>http://localhost:1313/posts/kubernetes-on-raspberry-pi/</link>
-      <pubDate>Sat, 01 Jun 2024 09:13:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kubernetes-on-raspberry-pi/</guid>
       <description>Multi-part series on working with Kubernetes</description>
     </item>
   </channel>
