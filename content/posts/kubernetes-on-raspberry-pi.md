@@ -132,5 +132,5 @@ _You may want to label your nodes with tape or a label maker, the older you get 
 
 ## What's Next?
 
-In the next step we are going to use [Ansible]() to automate the setup of Kubernetes cluster with K3s and go over in detail the settings I will be using to configure the cluster. 
+In the next step we are going to use [Ansible](https://www.ansible.com/) to automate the setup of Kubernetes cluster with K3s and go over in detail the settings I will be using to configure the cluster. 
 
